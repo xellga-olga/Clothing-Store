@@ -23,7 +23,7 @@ const Navbar = () => {
   ];
 
   return (
-    <header className="max-w-screen-2xl xl:px-28 px-4">
+    <header className="max-w-screen-2xl xl:px-28 px-4 top-0 absolute right-0 left-0 ">
       {/* Main navigation bar */}
       <nav className="flex justify-between items-center container md:py-4 pt-6 pb-3">
         {/* Search icon */}
@@ -31,11 +31,11 @@ const Navbar = () => {
 
         {/* Logo image linking to homepage */}
         <a href="/">
-          <img src={logo} alt="Logo" width={100} />
+          <img src={logo} alt="Logo" width={70} />
         </a>
 
         {/* Account and shopping cart links */}
-        <div className="text-lg text-Black sm:flex items-center hidden gap-4">
+        <div className="text-l text-Black sm:flex items-center hidden gap-4">
           <a className="flex items-center gap-2" href="/">
             <FaUser />
             Account
