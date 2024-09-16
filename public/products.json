@@ -4,7 +4,7 @@
       "title": "Diamond Ring",
       "category": "Jewelry",
       "price": 105.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://babyanything.com.au/wp-content/uploads/2023/09/Babyanything_Ring_Ceremonial_Diamond_OvalCut_1.20ct_Gold_Yellow_18k_RG18YGCEREMO-1.20ct_2.jpg",
       "status": "Best Sellers"
    },
    {
@@ -12,7 +12,7 @@
       "title": "Men's T-shirt",
       "category": "Clothing",
       "price": 25.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://m.media-amazon.com/images/I/61QkyA7TIjL._AC_UF894,1000_QL80_.jpg",
       "status": "New Arrival"
    },
    {
@@ -20,7 +20,7 @@
       "title": "Building Blocks Set",
       "category": "Toys",
       "price": 49.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://www.habausa.com/cdn/shop/files/large-basic-building-blocks-60pc-1070-ls1_1080x.jpg?v=1709857530",
       "status": "Best Sellers"
    },
    {
@@ -28,7 +28,7 @@
       "title": "Sofa Set",
       "category": "Home",
       "price": 599.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://www.couchek.co.uk/cdn/shop/files/merico-sofa-set-premium-range-couchek-1_22fc3134-a032-48d9-82fb-843e5209293a.jpg?v=1717856217",
       "status": "On Sale"
    },
    {
@@ -36,7 +36,7 @@
       "title": "Gold Necklace",
       "category": "Jewelry",
       "price": 250.00,
-      "image": "/src/images/image1.avif",
+      "image": "https://wanderlustandco.com/cdn/shop/files/Wanderlustandco_DemiFine_14KGoldVermeilChains_02_800x.jpg?v=1685502703",
       "status": "Limited Edition"
    },
    {
@@ -44,7 +44,7 @@
       "title": "Women's Dress",
       "category": "Clothing",
       "price": 45.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://editorialist.com/web/2023/8/025/948/407/25948407~taupe_3.jpg",
       "status": "Trending"
    },
    {
@@ -52,15 +52,15 @@
       "title": "Toy Car",
       "category": "Toys",
       "price": 15.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://m.media-amazon.com/images/I/41kcGkhBDCL._AC_UF1000,1000_QL80_.jpg",
       "status": "Best Sellers"
    },
    {
       "id": 8,
       "title": "Dining Table",
       "category": "Home",
-      "price": 899.99,
-      "image": "/src/images/image1.avif",
+      "price": 499.99,
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/c5ac01d2d8191361df5063b504edc2163bc6e433/42.12%22-Modern-Round-Dining-Table-with-Printed-Marble-Table-Top-for-Dining-Room%2C-Unique-Base-Dining-Table.jpg?imwidth=714&impolicy=medium",
       "status": "Best Sellers"
    },
    {
@@ -68,7 +68,7 @@
       "title": "Silver Bracelet",
       "category": "Jewelry",
       "price": 85.50,
-      "image": "/src/images/image1.avif",
+      "image": "https://m.media-amazon.com/images/I/516r0qUZ0XL._AC_SY500_.jpg",
       "status": "New Arrival"
    },
    {
@@ -76,7 +76,7 @@
       "title": "Jacket",
       "category": "Clothing",
       "price": 99.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://image.made-in-china.com/226f3j00dLalAyiIrgzF/Custom-Men-s-Jackets-Women-s-Windbreak-Jackets-Hot-Selling-Outdoor-High-Quality-Bomber-Jacket-for-Unisex.webp",
       "status": "Winter Collection"
    },
    {
@@ -84,7 +84,7 @@
       "title": "Stuffed Animal",
       "category": "Toys",
       "price": 20.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://m.media-amazon.com/images/I/81P038Q6pfS._AC_UF350,350_QL80_.jpg",
       "status": "On Sale"
    },
    {
@@ -92,7 +92,7 @@
       "title": "Bookshelf",
       "category": "Home",
       "price": 149.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://m.media-amazon.com/images/I/41q7U7e9gSL._AC_.jpg",
       "status": "Best Sellers"
    },
    {
@@ -100,7 +100,7 @@
       "title": "Platinum Earrings",
       "category": "Jewelry",
       "price": 199.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://static.wixstatic.com/media/759434_b363dbfd8dba4687a2dac6a97a2ed2a7~mv2.jpg/v1/fill/w_980,h_980,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/759434_b363dbfd8dba4687a2dac6a97a2ed2a7~mv2.jpg",
       "status": "Exclusive"
    },
    {
@@ -108,7 +108,7 @@
       "title": "Leather Jacket",
       "category": "Clothing",
       "price": 150.00,
-      "image": "/src/images/image1.avif",
+      "image": "https://kaptan.pk/cdn/shop/products/KAPTAN-4-16.jpg?v=1611407994",
       "status": "New Arrival"
    },
    {
@@ -116,7 +116,7 @@
       "title": "Lego City Set",
       "category": "Toys",
       "price": 75.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://lv2.pigugroup.eu/colours/260/687/81/26068781/60362-lego-city-automazgatava-papira-6315792-lego-98478_xbig.jpg",
       "status": "Best Sellers"
    },
    {
@@ -124,7 +124,7 @@
       "title": "King Size Bed",
       "category": "Home",
       "price": 1200.00,
-      "image": "/src/images/image1.avif",
+      "image": "https://www.nilkamalfurniture.com/cdn/shop/files/MMOZARTKBWNT_07_1.jpg?v=1690790157",
       "status": "Limited Edition"
    },
    {
@@ -132,7 +132,7 @@
       "title": "Pearl Necklace",
       "category": "Jewelry",
       "price": 300.00,
-      "image": "/src/images/image1.avif",
+      "image": "https://cdn-images.farfetch-contents.com/17/71/65/52/17716552_37777302_600.jpg",
       "status": "Classic"
    },
    {
@@ -140,7 +140,7 @@
       "title": "Summer Shorts",
       "category": "Clothing",
       "price": 20.99,
-      "image": "/src/images/image1.avif",
+      "image": "https://www.ikkivi.com/cdn/shop/files/SummerSunOrganicCottonShorts_5.jpg?v=1690128931",
       "status": "On Sale"
    },
    {
@@ -148,7 +148,7 @@
       "title": "Remote Control Drone",
       "category": "Toys",
       "price": 120.00,
-      "image": "/src/images/image1.avif",
+      "image": "https://i5.walmartimages.com/seo/RC-Drone-4K-Dual-HD-Camera-Kids-Beginners-Remote-Control-Qudcopter-Optical-Flow-Positioning-Great-Gift-Children-Play-Outdoor-2-Batteries-Color-Green_2dd2e8fa-a3d0-4ffc-9d79-54c70a586c0b.229b5c7c05e4c2a3e9ba443df151c73c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
       "status": "Trending"
    },
    {
@@ -156,7 +156,7 @@
       "title": "Kitchen Island",
       "category": "Home",
       "price": 850.00,
-      "image": "/src/images/image1.avif",
+      "image": "https://decoholic.org/wp-content/uploads/2023/05/White-Kitchen-Island-1.jpg",
       "status": "Best Sellers"
    },
    {
@@ -165,7 +165,7 @@
       "category": "Jewelry",
       "price": 500.00,
       "status": "Limited Edition",
-      "image": "/src/images/image1.avif"
+      "image": "https://gearjewellers.ie/cdn/shop/files/sauron-ruby-diamond-ring-rings-gear-jewellers-dublin-737.jpg?v=1715605461"
    },
    {
       "id": 22,
@@ -173,7 +173,7 @@
       "category": "Clothing",
       "price": 80.99,
       "status": "Trending",
-      "image": "/src/images/image1.avif"
+      "image": "https://img.joomcdn.net/1bde965f996d7389caafd4d0916c2e7c96ef80ff_original.jpeg"
    },
    {
       "id": 23,
@@ -181,7 +181,7 @@
       "category": "Toys",
       "price": 10.99,
       "status": "Best Sellers",
-      "image": "/src/images/image1.avif"
+      "image": "https://m.media-amazon.com/images/I/71XowRofk3L._AC_SL1200_.jpg"
    },
    {
       "id": 24,
@@ -189,6 +189,6 @@
       "category": "Home",
       "price": 450.00,
       "status": "New Arrival",
-      "image": "/src/images/image1.avif"
+      "image": "https://www.ideahome24.com/cdn/shop/products/68-1_8961ff70-c73e-404e-a7d1-6b5f08e5ca0b.jpg?v=1611430299"
    }
 ]
