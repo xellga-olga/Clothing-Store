@@ -40,7 +40,12 @@ const Category = () => {
         </p>
         <div>
           <Link to="/">
-            <img className="hover:scale-105 transition-all duration-200" alt="" src={Image1} width={600}/>
+            <img
+              className="hover:scale-105 transition-all duration-200"
+              alt=""
+              src={Image1}
+              width={600}
+            />
           </Link>
         </div>
         <div className="md:w-1/2">

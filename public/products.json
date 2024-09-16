@@ -1,0 +1,194 @@
+[
+   {
+      "id": 1,
+      "title": "Diamond Ring",
+      "category": "Jewelry",
+      "price": 105.99,
+      "image": "/src/images/image1.avif",
+      "status": "Best Sellers"
+   },
+   {
+      "id": 2,
+      "title": "Men's T-shirt",
+      "category": "Clothing",
+      "price": 25.99,
+      "image": "/src/images/image1.avif",
+      "status": "New Arrival"
+   },
+   {
+      "id": 3,
+      "title": "Building Blocks Set",
+      "category": "Toys",
+      "price": 49.99,
+      "image": "/src/images/image1.avif",
+      "status": "Best Sellers"
+   },
+   {
+      "id": 4,
+      "title": "Sofa Set",
+      "category": "Home",
+      "price": 599.99,
+      "image": "/src/images/image1.avif",
+      "status": "On Sale"
+   },
+   {
+      "id": 5,
+      "title": "Gold Necklace",
+      "category": "Jewelry",
+      "price": 250.00,
+      "image": "/src/images/image1.avif",
+      "status": "Limited Edition"
+   },
+   {
+      "id": 6,
+      "title": "Women's Dress",
+      "category": "Clothing",
+      "price": 45.99,
+      "image": "/src/images/image1.avif",
+      "status": "Trending"
+   },
+   {
+      "id": 7,
+      "title": "Toy Car",
+      "category": "Toys",
+      "price": 15.99,
+      "image": "/src/images/image1.avif",
+      "status": "Best Sellers"
+   },
+   {
+      "id": 8,
+      "title": "Dining Table",
+      "category": "Home",
+      "price": 899.99,
+      "image": "/src/images/image1.avif",
+      "status": "Best Sellers"
+   },
+   {
+      "id": 9,
+      "title": "Silver Bracelet",
+      "category": "Jewelry",
+      "price": 85.50,
+      "image": "/src/images/image1.avif",
+      "status": "New Arrival"
+   },
+   {
+      "id": 10,
+      "title": "Jacket",
+      "category": "Clothing",
+      "price": 99.99,
+      "image": "/src/images/image1.avif",
+      "status": "Winter Collection"
+   },
+   {
+      "id": 11,
+      "title": "Stuffed Animal",
+      "category": "Toys",
+      "price": 20.99,
+      "image": "/src/images/image1.avif",
+      "status": "On Sale"
+   },
+   {
+      "id": 12,
+      "title": "Bookshelf",
+      "category": "Home",
+      "price": 149.99,
+      "image": "/src/images/image1.avif",
+      "status": "Best Sellers"
+   },
+   {
+      "id": 13,
+      "title": "Platinum Earrings",
+      "category": "Jewelry",
+      "price": 199.99,
+      "image": "/src/images/image1.avif",
+      "status": "Exclusive"
+   },
+   {
+      "id": 14,
+      "title": "Leather Jacket",
+      "category": "Clothing",
+      "price": 150.00,
+      "image": "/src/images/image1.avif",
+      "status": "New Arrival"
+   },
+   {
+      "id": 15,
+      "title": "Lego City Set",
+      "category": "Toys",
+      "price": 75.99,
+      "image": "/src/images/image1.avif",
+      "status": "Best Sellers"
+   },
+   {
+      "id": 16,
+      "title": "King Size Bed",
+      "category": "Home",
+      "price": 1200.00,
+      "image": "/src/images/image1.avif",
+      "status": "Limited Edition"
+   },
+   {
+      "id": 17,
+      "title": "Pearl Necklace",
+      "category": "Jewelry",
+      "price": 300.00,
+      "image": "/src/images/image1.avif",
+      "status": "Classic"
+   },
+   {
+      "id": 18,
+      "title": "Summer Shorts",
+      "category": "Clothing",
+      "price": 20.99,
+      "image": "/src/images/image1.avif",
+      "status": "On Sale"
+   },
+   {
+      "id": 19,
+      "title": "Remote Control Drone",
+      "category": "Toys",
+      "price": 120.00,
+      "image": "/src/images/image1.avif",
+      "status": "Trending"
+   },
+   {
+      "id": 20,
+      "title": "Kitchen Island",
+      "category": "Home",
+      "price": 850.00,
+      "image": "/src/images/image1.avif",
+      "status": "Best Sellers"
+   },
+   {
+      "id": 21,
+      "title": "Ruby Ring",
+      "category": "Jewelry",
+      "price": 500.00,
+      "status": "Limited Edition",
+      "image": "/src/images/image1.avif"
+   },
+   {
+      "id": 22,
+      "title": "Sports Shoes",
+      "category": "Clothing",
+      "price": 80.99,
+      "status": "Trending",
+      "image": "/src/images/image1.avif"
+   },
+   {
+      "id": 23,
+      "title": "Puzzle Game",
+      "category": "Toys",
+      "price": 10.99,
+      "status": "Best Sellers",
+      "image": "/src/images/image1.avif"
+   },
+   {
+      "id": 24,
+      "title": "Luxury Armchair",
+      "category": "Home",
+      "price": 450.00,
+      "status": "New Arrival",
+      "image": "/src/images/image1.avif"
+   }
+]
