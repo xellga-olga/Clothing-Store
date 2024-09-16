@@ -10,7 +10,7 @@ const Cards = ({ filteredItems }) => {
             <img 
               src={item.image} 
               alt="product" 
-              className="w-72 h-72 object-cover rounded-md hover:scale-105 transition-all duration-300" 
+              className="h-72 w-full object-cover rounded-md hover:scale-105 transition-all duration-300" 
             />
           </Link>
           <div className="mt-4 px-4">
