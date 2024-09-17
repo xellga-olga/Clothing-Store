@@ -12,6 +12,9 @@ module.exports = {
       fontFamily: {
         primary: ['"Roboto Condensed"', 'sans-serif'],
       },
+      backgroundImage: {
+        'collection': "url('/src/images/collection-bg.avif')",
+      },
     },
   },
   plugins: [],
