@@ -19,7 +19,7 @@ const Cards = ({ filteredItems }) => {
             </h4>
             <div className="flex justify-between">
               <p className="text-black/50">{item.category}</p>
-              <p className="font-semibold">${item.price.toFixed(2)}</p> {/* Приводим цену к фиксированному формату с двумя знаками после запятой */}
+              <p className="font-semibold">${item.price.toFixed(2)}</p>
             </div>
           </div>
         </div>
