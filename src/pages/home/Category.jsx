@@ -35,7 +35,7 @@ const Category = () => {
 
       {/* category grid */}
       <div className="mt-8 flex flex-col md:flex-row items-center gap-4">
-        <p className="font-semibold uppercase text-white bg-black text-center inline-flex md:p-1.5 p-2 rounded-sm inline-flex md:-rotate-90">
+        <p className="font-semibold uppercase text-white bg-black text-center inline-flex md:p-1.5 p-2 rounded-sm md:-rotate-90">
           Explore new and popular styles
         </p>
         <div>
